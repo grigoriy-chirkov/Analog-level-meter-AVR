@@ -4,7 +4,7 @@
  * at A0 (PC0) on a ten-level scale (PD3-PD8, PB0-PB4).
  * The button (PD2) push inverses the signal level at a scale.
  * Written by Grigory Chirkov, Gleb Balitsky and Nikolay Kozirskiy.
- * Copyright Grigoriy Chirkov, 2016.
+ * Copyright Grigory Chirkov, Gleb Balitsky and Nikolay Kozirskiy, 2016.
  */
 
 #define __SFR_OFFSET 0
